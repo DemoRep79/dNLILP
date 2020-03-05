@@ -18,8 +18,7 @@ List of current experiments:
 
 2) other experiments can be envoked simply by running the corresponding py file
 
-
-	
+3) for the BoxWorld experiment please see the BoxWorld folder and read the readme file for instructions	
 
 
 
